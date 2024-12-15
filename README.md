@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm George 👋
 
-<!--
-**Tseretel1/Tseretel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer passionate about building applications and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I work with
+- ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white)
+- ![C#](https://img.shields.io/badge/-C%23-00599C?logo=c-sharp&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+

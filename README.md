@@ -18,5 +18,5 @@ Welcome to my GitHub profile! here are technologies i mastered for past two year
 
 
 ## 📈 GitHub Stats
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tseretel1&show_icons=true&hide_title=true&count_private=true&theme=radical)
 

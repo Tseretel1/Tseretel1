@@ -13,7 +13,6 @@ Welcome to my GitHub profile! here are technologies i mastered for past two year
 - C#: ![C#](https://img.shields.io/badge/-C%23-00599C?logo=c-sharp&logoColor=white)
 - ASP.NET: ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=asp.net&logoColor=white)
 - C# MVC: ![C# MVC](https://img.shields.io/badge/-C%23%20MVC-00599C?logo=aspdotnet&logoColor=white)
-- Windows Forms App (WFA): ![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-008080?logo=windows&logoColor=white)
 - SQL: ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
 
 
